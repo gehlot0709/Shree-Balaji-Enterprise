@@ -52,7 +52,7 @@ export default function Contact() {
             ))}
           </motion.div>
 
-          {/* Contact Form */}
+          {/* Contact Form
           <motion.div
             variants={fadeIn}
             transition={{ delay: 0.4 }}
@@ -79,7 +79,7 @@ export default function Contact() {
                 Send Message
               </button>
             </form>
-          </motion.div>
+          </motion.div> */}
         </div>
       </motion.div>
     </div>
